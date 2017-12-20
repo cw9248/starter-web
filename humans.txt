@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Clif Jones cw@jimmyjones.com
 
 # THANKS
 
