@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Hey Mom!
+This repository is for showing how Git and GitHub work. Hey Mom! Hey Jim!
 
 ## Purpose
 To demo git project commits
