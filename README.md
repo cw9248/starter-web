@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work. Hey Mom!
 
 ## Purpose
 To demo git project commits
+and other stuff
 
 ## How To Contribute
 ## Introduction
