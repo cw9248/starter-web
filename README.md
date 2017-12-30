@@ -14,5 +14,6 @@ Sample website with plenty of files for demos
 ## Hey hey no
 
 Please fork this repository 
+More Git Training
 
 # Copyright
