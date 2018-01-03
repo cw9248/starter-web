@@ -18,3 +18,5 @@ Please fork this repository
 More Git Training
 
 # Copyright
+
+2014 All Rights Reserved.
