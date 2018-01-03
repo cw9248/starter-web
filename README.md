@@ -19,4 +19,4 @@ More Git Training
 
 # Copyright
 
-2014 All Rights Reserved.
+2014 All Rights Reserved. More stuff
